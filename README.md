@@ -1,5 +1,7 @@
 # Movies-ETL
 
+In this assignment, we downloaded csv files and a json file that we were interested in working with. Using functions in Python and Pandas, we cleaned the data and put it into dataframes. Then we used sqlalchemy (psycopg2) to import the data into SQL databases.
+
 This assignment consists of four technical analysis deliverables:
 
 Deliverable 1: Write an ETL Function to Read Three Data Files - **ETL_function_test.ipynb**
